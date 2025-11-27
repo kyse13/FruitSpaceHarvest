@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube
+  - PlayerShip
+  - Fruit
+  - Meteorite
+  - ScoreText
+  - Score Text
+  - Heart1
+  - Heart2
+  - Heart3
+  - Fruit1
+  - Fruit2
+  - Fruit3
+  - break1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Fruit
+  - Meteorite
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "\u043F\u043F\u043F\u043F"
+    uniqueID: 4077002953
+    locked: 0
+  - name: backgrounds
+    uniqueID: 1120243153
+    locked: 0
+  - name: star
+    uniqueID: 1707145791
+    locked: 0
+  - name: planet
+    uniqueID: 497685517
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fruit
+    uniqueID: 873858057
+    locked: 0
+  - name: player
+    uniqueID: 3804494885
+    locked: 0
+  - name: canvas
+    uniqueID: 261190973
+    locked: 0
+  - name: Options
+    uniqueID: 50276309
+    locked: 0
+  - name: Options1
+    uniqueID: 3890254699
+    locked: 0
+  - name: options2
+    uniqueID: 232615721
+    locked: 0
+  - name: GAmeOver1
+    uniqueID: 384431771
+    locked: 0
+  - name: GameOver 2
+    uniqueID: 2305297845
+    locked: 0
+  - name: GameOver 3
+    uniqueID: 1124000871
+    locked: 0
