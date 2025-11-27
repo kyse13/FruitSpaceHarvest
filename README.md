@@ -1,2 +1,25 @@
-# FruitSpaceHarvest
-A simple 2D arcade game on Unty
+# FruitSpace Harvest
+Простая 2D аркада на Unity.
+
+##  Технологии
+
+- **Unity 2022.3 LTS**
+- **C#**
+- **Unity Physics 2D**
+- **Unity UI**
+- **Particle System**
+
+## Функционал
+
+- Плавное управление кораблем
+- Разнообразные космические фрукты с разной ценностью
+- Случайная генерация метеоритов
+- Система подсчета очков и рекордов
+- Красочные визуальные эффекты
+- Оптимизированная физика
+
+##  Запуск
+
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/yourname/CosmicFruitCollector.git
